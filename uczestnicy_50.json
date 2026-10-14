@@ -1,0 +1,353 @@
+[
+    {
+        "id": 1,
+        "imie": "Anna",
+        "wiek": 28,
+        "miasto": "Łowicz",
+        "punkty": 82
+    },
+    {
+        "id": 2,
+        "imie": "Marek",
+        "wiek": 35,
+        "miasto": "Skierniewice",
+        "punkty": 64
+    },
+    {
+        "id": 3,
+        "imie": "Kasia",
+        "wiek": 31,
+        "miasto": "Łódź",
+        "punkty": 91
+    },
+    {
+        "id": 4,
+        "imie": "Piotr",
+        "wiek": 42,
+        "miasto": "Łowicz",
+        "punkty": 73
+    },
+    {
+        "id": 5,
+        "imie": "Ola",
+        "wiek": 26,
+        "miasto": "Warszawa",
+        "punkty": 58
+    },
+    {
+        "id": 6,
+        "imie": "Tomasz",
+        "wiek": 39,
+        "miasto": "Kutno",
+        "punkty": 77
+    },
+    {
+        "id": 7,
+        "imie": "Magda",
+        "wiek": 33,
+        "miasto": "Sochaczew",
+        "punkty": 88
+    },
+    {
+        "id": 8,
+        "imie": "Krzysztof",
+        "wiek": 45,
+        "miasto": "Łódź",
+        "punkty": 69
+    },
+    {
+        "id": 9,
+        "imie": "Ewa",
+        "wiek": 29,
+        "miasto": "Warszawa",
+        "punkty": 95
+    },
+    {
+        "id": 10,
+        "imie": "Paweł",
+        "wiek": 37,
+        "miasto": "Łowicz",
+        "punkty": 71
+    },
+    {
+        "id": 11,
+        "imie": "Monika",
+        "wiek": 41,
+        "miasto": "Kutno",
+        "punkty": 84
+    },
+    {
+        "id": 12,
+        "imie": "Adam",
+        "wiek": 24,
+        "miasto": "Skierniewice",
+        "punkty": 62
+    },
+    {
+        "id": 13,
+        "imie": "Joanna",
+        "wiek": 36,
+        "miasto": "Łódź",
+        "punkty": 79
+    },
+    {
+        "id": 14,
+        "imie": "Michał",
+        "wiek": 32,
+        "miasto": "Warszawa",
+        "punkty": 67
+    },
+    {
+        "id": 15,
+        "imie": "Agnieszka",
+        "wiek": 38,
+        "miasto": "Łowicz",
+        "punkty": 90
+    },
+    {
+        "id": 16,
+        "imie": "Robert",
+        "wiek": 44,
+        "miasto": "Sochaczew",
+        "punkty": 76
+    },
+    {
+        "id": 17,
+        "imie": "Natalia",
+        "wiek": 27,
+        "miasto": "Kutno",
+        "punkty": 85
+    },
+    {
+        "id": 18,
+        "imie": "Grzegorz",
+        "wiek": 50,
+        "miasto": "Łódź",
+        "punkty": 61
+    },
+    {
+        "id": 19,
+        "imie": "Karolina",
+        "wiek": 30,
+        "miasto": "Warszawa",
+        "punkty": 93
+    },
+    {
+        "id": 20,
+        "imie": "Andrzej",
+        "wiek": 47,
+        "miasto": "Łowicz",
+        "punkty": 72
+    },
+    {
+        "id": 21,
+        "imie": "Barbara",
+        "wiek": 52,
+        "miasto": "Skierniewice",
+        "punkty": 68
+    },
+    {
+        "id": 22,
+        "imie": "Łukasz",
+        "wiek": 34,
+        "miasto": "Kutno",
+        "punkty": 80
+    },
+    {
+        "id": 23,
+        "imie": "Dorota",
+        "wiek": 43,
+        "miasto": "Łódź",
+        "punkty": 74
+    },
+    {
+        "id": 24,
+        "imie": "Marcin",
+        "wiek": 29,
+        "miasto": "Warszawa",
+        "punkty": 57
+    },
+    {
+        "id": 25,
+        "imie": "Sylwia",
+        "wiek": 40,
+        "miasto": "Łowicz",
+        "punkty": 86
+    },
+    {
+        "id": 26,
+        "imie": "Rafał",
+        "wiek": 31,
+        "miasto": "Sochaczew",
+        "punkty": 65
+    },
+    {
+        "id": 27,
+        "imie": "Beata",
+        "wiek": 46,
+        "miasto": "Kutno",
+        "punkty": 89
+    },
+    {
+        "id": 28,
+        "imie": "Kamil",
+        "wiek": 25,
+        "miasto": "Skierniewice",
+        "punkty": 63
+    },
+    {
+        "id": 29,
+        "imie": "Iwona",
+        "wiek": 37,
+        "miasto": "Łódź",
+        "punkty": 78
+    },
+    {
+        "id": 30,
+        "imie": "Maciej",
+        "wiek": 48,
+        "miasto": "Warszawa",
+        "punkty": 70
+    },
+    {
+        "id": 31,
+        "imie": "Aleksandra",
+        "wiek": 28,
+        "miasto": "Łowicz",
+        "punkty": 92
+    },
+    {
+        "id": 32,
+        "imie": "Dariusz",
+        "wiek": 54,
+        "miasto": "Kutno",
+        "punkty": 66
+    },
+    {
+        "id": 33,
+        "imie": "Patrycja",
+        "wiek": 26,
+        "miasto": "Sochaczew",
+        "punkty": 81
+    },
+    {
+        "id": 34,
+        "imie": "Wojciech",
+        "wiek": 39,
+        "miasto": "Łódź",
+        "punkty": 75
+    },
+    {
+        "id": 35,
+        "imie": "Marta",
+        "wiek": 35,
+        "miasto": "Warszawa",
+        "punkty": 87
+    },
+    {
+        "id": 36,
+        "imie": "Sebastian",
+        "wiek": 41,
+        "miasto": "Łowicz",
+        "punkty": 59
+    },
+    {
+        "id": 37,
+        "imie": "Justyna",
+        "wiek": 32,
+        "miasto": "Skierniewice",
+        "punkty": 83
+    },
+    {
+        "id": 38,
+        "imie": "Przemysław",
+        "wiek": 45,
+        "miasto": "Kutno",
+        "punkty": 60
+    },
+    {
+        "id": 39,
+        "imie": "Paulina",
+        "wiek": 29,
+        "miasto": "Łódź",
+        "punkty": 94
+    },
+    {
+        "id": 40,
+        "imie": "Artur",
+        "wiek": 51,
+        "miasto": "Warszawa",
+        "punkty": 73
+    },
+    {
+        "id": 41,
+        "imie": "Kinga",
+        "wiek": 34,
+        "miasto": "Łowicz",
+        "punkty": 85
+    },
+    {
+        "id": 42,
+        "imie": "Damian",
+        "wiek": 27,
+        "miasto": "Sochaczew",
+        "punkty": 64
+    },
+    {
+        "id": 43,
+        "imie": "Renata",
+        "wiek": 49,
+        "miasto": "Kutno",
+        "punkty": 77
+    },
+    {
+        "id": 44,
+        "imie": "Mateusz",
+        "wiek": 30,
+        "miasto": "Skierniewice",
+        "punkty": 90
+    },
+    {
+        "id": 45,
+        "imie": "Elżbieta",
+        "wiek": 56,
+        "miasto": "Łódź",
+        "punkty": 69
+    },
+    {
+        "id": 46,
+        "imie": "Daniel",
+        "wiek": 36,
+        "miasto": "Warszawa",
+        "punkty": 82
+    },
+    {
+        "id": 47,
+        "imie": "Weronika",
+        "wiek": 23,
+        "miasto": "Łowicz",
+        "punkty": 88
+    },
+    {
+        "id": 48,
+        "imie": "Jacek",
+        "wiek": 53,
+        "miasto": "Kutno",
+        "punkty": 62
+    },
+    {
+        "id": 49,
+        "imie": "Emilia",
+        "wiek": 31,
+        "miasto": "Sochaczew",
+        "punkty": 79
+    },
+    {
+        "id": 50,
+        "imie": "Norbert",
+        "wiek": 38,
+        "miasto": "Łódź",
+        "punkty": 71
+    }
+]
+
